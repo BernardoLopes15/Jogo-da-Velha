@@ -639,8 +639,8 @@ MonoBehaviour:
   - {fileID: 381203747}
   - {fileID: 1109572611}
   matrixSize: {x: 3, y: 3}
-  X: {fileID: 3785280444819767423, guid: 4b034c7aaf3eef6438bc1da72b1d5caa, type: 3}
-  O: {fileID: 1877033591906752731, guid: 8add1f2489f073349a6bae6c61ce3a00, type: 3}
+  X: {fileID: 1302961331272807597, guid: 67901c67dbf646340abf269d76d3b831, type: 3}
+  O: {fileID: 4495995094667918300, guid: 8add1f2489f073349a6bae6c61ce3a00, type: 3}
   mask:
     serializedVersion: 2
     m_Bits: 0
